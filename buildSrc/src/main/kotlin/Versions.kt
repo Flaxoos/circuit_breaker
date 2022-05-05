@@ -1,0 +1,5 @@
+const val kotlinVersion = "1.6.10"
+const val kotlinCoroutinesVersion = "1.6.1"
+const val kotlinDateTimeVersion = "0.3.2"
+const val junitVersion = "5.8.2"
+const val kotestVersion = "4.0.7"
